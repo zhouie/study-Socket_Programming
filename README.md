@@ -128,7 +128,7 @@ Windows 下C++ Socket编程，可能会调用`WSAStartup`函数报错：`undefin
 
 ## Reference
 
-[TCP IP网络编程基础教程（Chap1-3）](https://github.com/zhouie/study-Socket_Programming/Tutorial)
+[TCP IP网络编程基础教程（Chap1-3）](https://github.com/zhouie/study-Socket_Programming/tree/master/Tutorial)
 
 [C++中Socket编程（入门）](https://www.cnblogs.com/kefeiGame/p/7246942.html)
 
